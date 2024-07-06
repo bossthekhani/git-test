@@ -18,7 +18,7 @@ This project is a simple QR code component built with HTML and CSS. The goal is 
 ![Screenshot](image-qr-code.png)
 
 ### Links
-- Live Site URL: [Live Site]([https://your-live-site-url.com](https://git-test-flame.vercel.app/))
+- Live Site URL: [Live Site](https://git-test-flame.vercel.app/)
 
 ## Built With
 - HTML
